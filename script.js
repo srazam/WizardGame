@@ -39,10 +39,6 @@ tut.addEventListener("click", function(){
     animation();
 })
 
-//.addEventListener("click", function(){
-  //  sumn.innerHTML = tutorialText[currentIndex];
-//})
-
 container.addEventListener("click", function(){
     if(count === 1)
     {
